@@ -9,10 +9,6 @@ This project demonstrates how to build and train a **Convolutional Neural Networ
 2. [Dataset](#dataset)
 3. [Model Architecture](#model-architecture)
 4. [Results](#results)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ---
 
